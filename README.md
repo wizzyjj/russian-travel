@@ -30,4 +30,4 @@
 
 ### Ссылка на проект
 
-[Ссылка на проект](https://wizzyjj.github.io/russian-travel/)
+* [Ссылка на проект](https://wizzyjj.github.io/russian-travel/)
