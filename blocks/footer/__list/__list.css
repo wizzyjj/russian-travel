@@ -1,4 +1,4 @@
-.footer .__list {
+ .footer__list {
     font-family: "Inter-Medium";
     display: flex;
     list-style: none;
@@ -10,7 +10,7 @@
   }
   
   @media screen and (max-width: 320px) {
-    .footer .__list {
+     .footer__list {
               flex-direction: column;
     }
   }

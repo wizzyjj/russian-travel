@@ -31,19 +31,19 @@
 @import url(../blocks/places/place/place/__title/__title.css);
 @import url(../blocks/places/place/place/__website/__website.css);
 @import url(../blocks/places/place/place/__website/__link/__link.css);
-@import url(../blocks/places/place/place/__website/__link/__link_grey/__link_grey.css);
+@import url(../blocks/places/place/place/__website/__link/link_grey/link_grey.css);
 @import url(../blocks/places/place/place/__website/url-heading/url-heading.css);
 
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__background/__background.css);
 @import url(../blocks/cover/__subtitle/__subtitle.css);
 @import url(../blocks/cover/__title/__title.css);
-@import url(../blocks/cover/cover__overlay/__overlay.css);
+@import url(../blocks/cover/__overlay/__overlay.css);
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/__copyright.css);
 @import url(../blocks/footer/__link/__link.css);
-@import url(../blocks/footer/__link/__link_grey/__link_grey.css);
+@import url(../blocks/footer/__link/link_grey/link_grey.css);
 @import url(../blocks/footer/__list/__list.css);
 
 

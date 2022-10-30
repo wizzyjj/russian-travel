@@ -1,4 +1,4 @@
-.url-heading {
+.place__url-heading {
     height: 12px;
     font-size: 12px;
     line-height: 1;
@@ -8,7 +8,7 @@
   }
   
   @media screen and (max-width: 320px) {
-    .url-heading {
+    .place__url-heading {
       font-size: calc(100vw * (12 / 320));
       line-height: 1;
       letter-spacing: calc(100vw * (2 / 320));

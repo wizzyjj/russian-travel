@@ -1,4 +1,4 @@
-.__la {
+.header__la {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   column-gap: 18px;
@@ -10,14 +10,14 @@
 }
 
 @media screen and (max-width: 1280px) {
-  .__la {
+  .header__la {
     margin: 18px 0 6px 0;
     column-gap: 18px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .__la {
+  .header__la {
     margin: 0 0 2.5vw 0;
     column-gap: calc(100vw * (18 / 320));
   }

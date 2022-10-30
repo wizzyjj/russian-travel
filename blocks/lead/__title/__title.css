@@ -1,6 +1,6 @@
 
 
-.lead .__title {
+ .lead__title {
     max-width: 720px;
     font-family: "Inter-Black";
     font-size: 96px;
@@ -13,14 +13,14 @@
 }
 
 @media screen and (max-width: 768px) {
-  .lead .__title {
+   .lead__title {
     font-size: calc(100vw * (96 / 768));
     line-height: calc(100vw * (100 / 768));
   }
 }
 
 @media screen and (max-width: 320px) {
-  .lead .__title {
+   .lead__title {
     font-size: calc(100vw * (40 / 320));
     line-height: calc(100vw * (44 / 320));
   }

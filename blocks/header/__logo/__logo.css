@@ -1,5 +1,5 @@
 
-.__logo {
+.header__logo {
     width: 142px;
     height: 42px;
     background-image: url('../../../images/header-logo.svg');
@@ -7,7 +7,7 @@
   }
   
   @media screen and (max-width: 320px) {
-    .header .__logo {
+  .header__logo {
       width: calc(100vw * (142 / 320));
       height: calc(100vw * (42 / 320));
     }

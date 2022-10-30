@@ -1,4 +1,4 @@
-.__lang {
+.header__lang {
     font-size: 24px;
     line-height: 28px;
     color: #FFFFFF;
@@ -6,19 +6,19 @@
     margin: 0;
   }
 
-  .__lang:nth-child(1) {
+  .header__lang:nth-child(1) {
     text-decoration: underline;
 } 
   
   @media screen and (max-width: 1280px) {
-    .__lang {
+    .header__lang {
       font-size: 24px;
       line-height: 28px;
     }
   }
   
   @media screen and (max-width: 320px) {
-    .__lang {
+    .header__lang {
       font-size: calc(100vw * (18 / 320));
       line-height: calc(100vw * (20 / 320));
     }

@@ -23,8 +23,7 @@
   
   @media screen and (max-width: 320px) {
     .photo-grid {
-      grid-template-columns: repeat(auto-fit, minmax(min-content, calc(100vw * (288 / 320))));
-      grid-template-columns: repeat(auto-fit, minmax(min-content, calc(100vw * (288 / 320))));
+      grid-template-columns: repeat(auto-fill, minmax(min-content, calc(100vw * (288 / 320))));
       gap: calc(100vw * (12 / 320));
       padding: 20vw 0 0 0;
       margin: 0 5vw;
