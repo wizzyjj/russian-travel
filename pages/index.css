@@ -7,7 +7,6 @@
 @import url(../blocks/header/__la/__la.css);
 @import url(../blocks/header/__lang/__lang.css);
 @import url(../blocks/header/__lang/__lang_grey/__lang_grey.css);
-@import url(../blocks/header/__lang/en__lang.css);
 @import url(../blocks/header/__logo/__logo.css);
 
 @import url(../blocks/lead/__image/__image.css);
@@ -24,7 +23,6 @@
 
 @import url(../blocks/photo-grid/photo-grid.css);
 @import url(../blocks/photo-grid/__item/__item.css);
-@import url(../blocks/photo-grid/__item/__item_grey-item/__item_grey-item.css);
 
 @import url(../blocks/places/place/places.css);
 @import url(../blocks/places/place/place/place.css);
