@@ -7,8 +7,7 @@
 * 768px;
 * 1024px;
 * 1280px;
-### Так же добавлена библиотека jquery для просмотра изображений
-### Реализовано переключение на английский язык без перезагрузки страницы
+
 
 
 ### Технологии
@@ -17,17 +16,37 @@
 * BEM
 * Flexbox
 * Grid Layout
-* java script
-* jquery
+
+
 
 ### Превью
 ![Превью проекта](./AK7dU8kY4C.gif)
 
-
 **Figma**
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Ссылка на проект**
-
 * [Ссылка на проект](https://wizzyjj.github.io/russian-travel/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Так же реализована продвинутая версия работы Russian-travel с переключением на английский язык без перезагрузки страницы и библиотекой jquery для просмотра изображений
+
+* [Ссылка на репозиторий](https://github.com/wizzyjj/russian_travel_en_ru_jquery)
+* [Ссылка на проект](https://wizzyjj.github.io/russian-travel/)
+
+
