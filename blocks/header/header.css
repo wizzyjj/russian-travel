@@ -1,5 +1,3 @@
-
-
 .header {
     max-width: 1184px;
     max-height: 54px;
@@ -16,10 +14,6 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
-  .header {
-  }
-}
 
 @media screen and (max-width: 768px) {
   .header {

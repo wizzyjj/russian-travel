@@ -3,9 +3,6 @@
     margin: 0;
   }
   
-  @media screen and (max-width: 1280px) {
-  }
-  
   @media screen and (max-width: 1024px) {
     .places .__image {
       width: calc(100vw * (440 / 1024));

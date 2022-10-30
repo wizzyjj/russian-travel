@@ -11,15 +11,6 @@
   z-index: 1;
 }
 
-@media screen and (max-width: 1280px) {
-}
-
-@media screen and (max-width: 1024px) {
-}
-
-@media screen and (max-width: 768px) {
-}
-
 @media screen and (max-width: 425px) {
   .cover .__subtitle {
     font-size: calc(100vw * (14 / 320));

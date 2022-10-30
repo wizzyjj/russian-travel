@@ -5,12 +5,6 @@
     margin: 0;
   }
   
-  @media screen and (max-width: 1280px) {
-  }
-  
-  @media screen and (max-width: 1024px) {
-  }
-  
   @media screen and (max-width: 768px) {
     .places {
       padding-top: calc(100vw * (88 / 768));

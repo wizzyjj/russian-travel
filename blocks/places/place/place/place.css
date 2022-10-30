@@ -8,9 +8,6 @@
     margin: 0 auto;
 }
   
-  @media screen and (max-width: 1280px) {
-  }
-  
   @media screen and (max-width: 1024px) {
     .place{
       width: calc(100vw * (928 / 1024));
