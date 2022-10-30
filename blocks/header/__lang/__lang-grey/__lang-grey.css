@@ -1,11 +1,11 @@
-.header__lang_grey {
+.header__lang-grey {
     text-decoration: none;
     color: white;
     transition: opacity 0.3s linear;
     cursor: pointer;
   }
   
-  .header__lang_grey:hover {
+  .header__lang-grey:hover {
     opacity: 0.5;
   }
   

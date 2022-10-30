@@ -1,9 +1,12 @@
-.link_grey {
+.link {
     color: #ffffff;
     transition: opacity 0.3s linear;
+    text-decoration: none;
+    cursor: pointer;
+   
   }
 
-.link_grey:hover {
+.link:hover {
     opacity: 0.5;
   }
     
