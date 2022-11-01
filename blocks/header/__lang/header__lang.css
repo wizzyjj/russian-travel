@@ -4,15 +4,13 @@
   column-gap: 18px;
   align-items: flex-end;
   list-style: none;
-  line-height: 0;
   padding: 0;
   margin: 0px 0 3px 0;
-
   font-size: 24px;
   line-height: 28px;
   color: #FFFFFF;
   text-decoration: none;
-  margin: 0;
+
 }
 
 @media screen and (max-width: 1280px) {
