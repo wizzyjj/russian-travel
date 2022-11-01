@@ -19,22 +19,12 @@
 
 
 
-### Превью
-<<<<<<< HEAD
-![Превью проекта](./OrXszjlPxb.gif)
-=======
-![Превью проекта](./AK7dU8kY4C.gif)
->>>>>>> adc07b94ddec1cb08072f05cc0d2496c330601a4
+![Превью проекта](./Scr.jpg)
 
 **Figma**
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 * [Ссылка на проект](https://wizzyjj.github.io/russian-travel/)
-
-
-
-
-
 
 
 

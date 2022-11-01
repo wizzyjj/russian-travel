@@ -7,13 +7,12 @@
     font-weight: 400;
     line-height: 36px;
     color: #FFFFFF;
-    white-space: pre-line;
     margin: 32px auto 0;
 }
 
 @media screen and (max-width: 768px) {
    .lead__subtitle {
-    font-size: calc(100vw * (16 / 300));
+    font-size: calc(100vw * (30 / 768));
     line-height: calc(100vw * (20 / 300));
   }
 }
