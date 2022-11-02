@@ -11,6 +11,8 @@
   @media screen and (max-width: 1280px) {
      .place__title {
       width: calc(100vw * (460 / 1280));
+      font-size: calc(100vw * (76 / 1280));
+      line-height: calc(100vw * (76 / 1280));
     }
   }
   

@@ -22,14 +22,7 @@
       }
     
   }
-  
-  @media screen and (max-width: 768px) {
-    .intro__list {
-      font-size: calc(100vw * (12 / 600));
-      line-height: calc(100vw * (18 / 768));
-      }
-  }
-  
+
   @media screen and (max-width: 320px) {
     .intro__list {
       font-size: calc(100vw * (12 / 320));
