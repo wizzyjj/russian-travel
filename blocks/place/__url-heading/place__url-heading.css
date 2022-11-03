@@ -7,14 +7,11 @@
     text-transform: uppercase;
   }
 
-    
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 550px) {
     .place__url-heading {
-      font-size: calc(100vw * (12 / 768));
-
+      font-size: calc(100vw * (12 / 550));
     }
   }
-
   
   @media screen and (max-width: 320px) {
     .place__url-heading {

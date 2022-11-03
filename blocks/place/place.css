@@ -12,6 +12,7 @@
     .place{
       width: calc(100vw * (928 / 1024));
           column-gap: calc(100vw * (32 / 1024));
+          row-gap: calc(100vw * (48 / 1024));
     }
   }
   
@@ -19,6 +20,7 @@
     .place{
       width: calc(100vw * (720 / 768));
       column-gap: calc(100vw * (28 / 768));
+      row-gap: calc(100vw * (48 / 768));
     }
   }
   

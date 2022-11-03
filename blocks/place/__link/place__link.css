@@ -4,13 +4,15 @@
     color: #ffffff;
     text-decoration: underline;
   }
-  
+
   @media screen and (max-width: 768px) {
     .place__link {
       font-size: calc(100vw * (18 / 768));
       line-height: calc(100vw * (22 / 768));
     }
-  }
+  } 
+
+
   
   @media screen and (max-width: 320px) {
     .place__link {
