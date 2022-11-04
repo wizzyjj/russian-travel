@@ -37,7 +37,6 @@
 
 ### Так же реализована продвинутая версия работы Russian-travel с переключением на английский язык без перезагрузки страницы и библиотекой jquery для просмотра изображений
 
-* [Ссылка на репозиторий](https://github.com/wizzyjj/russian_travel_en_ru_jquery)
 * [Ссылка на проект](https://wizzyjj.github.io/russian_travel_en_ru_jquery/)
 
 
