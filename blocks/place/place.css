@@ -23,11 +23,17 @@
       row-gap: calc(100vw * (48 / 768));
     }
   }
+
+  @media screen and (max-width: 766px) {
+    .place {
+      max-width: 726px;
+      grid-template-columns: none;
+    }
+  }
   
   @media screen and (max-width: 320px) {
     .place {
       width: 100%;
-      -ms-grid-columns: none;
       grid-template-columns: none;
       row-gap: calc(100vw * (32 / 320));
     }

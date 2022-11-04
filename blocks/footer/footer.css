@@ -10,6 +10,14 @@
     padding: 11.4583vw 3.125vw 3.125vw;
   }
 }
+@media screen and (max-width: 766px) {
+  .footer {
+     max-width: 210px;
+    flex-direction: column;
+    padding: 8.4vw 0vw 3.14vw 5vw; 
+  }
+}
+
 
 @media screen and (max-width: 320px) {
   .footer {

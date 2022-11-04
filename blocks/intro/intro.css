@@ -18,6 +18,14 @@
       margin-left: 24px;
     }
   }
+
+  @media screen and (max-width: 766px) {
+    .intro {
+      width: calc(100% - 32px);
+      margin: 0 auto;
+      padding: 20vw 0 0;
+    }
+  }
   
   @media screen and (max-width: 320px) {
     .intro {

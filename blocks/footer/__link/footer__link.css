@@ -17,11 +17,11 @@
   }
 }
  
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 766px) {
   .footer__link {
-   font-size: calc(100vw * (16 / 700));
-   line-height: calc(100vw * (18 / 700));
-   margin: 0 2.3vw 0 0;
+   font-size: 24px;
+   line-height: 24px;
+   margin: 0 2.3vw 4.18vw 0;
  }
 }
 

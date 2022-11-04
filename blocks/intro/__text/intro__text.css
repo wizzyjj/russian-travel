@@ -8,10 +8,8 @@
   }
 
   
-  @media screen and (max-width: 550px) {
+  @media screen and (max-width: 766px) {
     .intro__text {
-      font-size: calc(100vw * (16 / 550*1.06));
-      line-height: calc(100vw  * (26 / 550));
       margin: 7.3vw 0 0 0;
     }
   }

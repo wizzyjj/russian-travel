@@ -11,6 +11,17 @@
       row-gap: calc(100vw * (73 / 768));
     }
   }
+
+  @media screen and (max-width: 766px) {
+    .places {
+      max-width: 766px;
+      padding-top: calc(100vw * (88 / 768));
+      gap: 0px;
+      row-gap: 73px;
+      padding-top: 88px;
+
+    }
+  }
   
   @media screen and (max-width: 320px) {
     .places {

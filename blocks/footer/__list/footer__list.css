@@ -8,6 +8,12 @@
 @media screen and (max-width: 768px) {
 }
 
+@media screen and (max-width: 766px) {
+  .footer__list {
+           flex-direction: column;
+ }
+}
+
 @media screen and (max-width: 320px) {
    .footer__list {
             flex-direction: column;

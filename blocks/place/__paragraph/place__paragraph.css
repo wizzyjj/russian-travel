@@ -16,19 +16,9 @@
     }
     .place__paragraph {
       font-size: 16px;
+      line-height: 26px;
     }
-
   }
-
-  
-  @media screen and (max-width: 550px) {
-    .place__paragraph {
-      font-size: calc(100vw * (16 / 550));
-      line-height: calc(100vw * (26 / 550));
-    }
-  
-  }
-  
   
   @media screen and (max-width: 320px) {
     .place__paragraph {

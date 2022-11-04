@@ -16,14 +16,28 @@
       line-height: calc(100vw * (76 / 1280));
     }
   }
-  
+
+  @media screen and (max-width: 1024px) {
+    .place__title {
+     width: calc(100vw * (440 / 1024));
+     font-size: calc(100vw * (72 / 1024));
+     line-height: calc(100vw * (76 / 1024));
+   }
+ }
+
   @media screen and (max-width: 768px) {
      .place__title {
-      width: calc(100vw * (330 / 768));
-      font-size: calc(100vw * (42 / 768));
+      width: 100%;
+      font-size: 42px;
       line-height: calc(100vw * (46 / 768));
     }
   }
+
+  @media screen and (max-width: 766px) {
+    .place__title {
+      line-height: 46px;
+   }
+ }
   
   @media screen and (max-width: 320px) {
      .place__title {
