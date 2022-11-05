@@ -13,7 +13,7 @@
    .footer__link {
     font-size: calc(100vw * (16 / 768));
     line-height: calc(100vw * (18 / 768));
-    margin: 0 2.34375vw 0 0;
+    margin: 0 2.34375vw 0 0; 
   }
 }
  
@@ -21,7 +21,7 @@
   .footer__link {
    font-size: 24px;
    line-height: 24px;
-   margin: 0 2.3vw 4.18vw 0;
+   margin: 0 0 4.18vw 0;
  }
 }
 
@@ -29,6 +29,6 @@
    .footer__link {
     font-size: calc(100vw * (24 / 320));
     line-height: calc(100vw * (24 / 320));
-    margin: 0 0 10vw 0;
+    margin: 0 0 10vw 0; 
   }
 }

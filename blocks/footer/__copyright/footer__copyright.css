@@ -24,7 +24,7 @@
   .footer__copyright {
     font-size: calc(100vw * (14 / 320));
     line-height: calc(100vw * (14 / 320));
-    margin-top: 5vw;
+    margin: 5vw 0 0 0;
     }
   }
 }
