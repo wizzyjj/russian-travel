@@ -3,7 +3,7 @@
     min-height: 740px;
     background-image: url(../../../images/cover-trains.jpg);
     background-repeat: no-repeat;
-    background-size:cover ;
+    background-size:cover;
     background-position: center;
     text-decoration: none;
     display: flex;
@@ -11,9 +11,7 @@
     flex-direction: column;
     align-items: center;
     overflow: hidden;
-    display: flex;
     justify-content: center;
-    align-items: center;
   }
 
   @media screen and (max-width: 1024px) {
