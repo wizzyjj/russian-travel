@@ -27,13 +27,12 @@
 
   @media screen and (max-width: 768px) {
      .place__title {
-      width: 100%;
       font-size: 42px;
       line-height: calc(100vw * (46 / 768));
     }
   }
 
-  @media screen and (max-width: 766px) {
+  @media screen and (max-width: 544px) {
     .place__title {
       line-height: 46px;
    }

@@ -1,29 +1,29 @@
 .footer {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 92px 48px 24px;
   margin: 0;
 }
 
 @media screen and (max-width: 768px) {
-  .footer {
-    padding: 11.4583vw 3.125vw 3.125vw;
+.footer {
+  padding: 11.4583vw 3.125vw 3.125vw;
   }
 }
-@media screen and (max-width: 766px) {
-  .footer {
-     max-width: 210px;
-    flex-direction: column;
-    padding: 8.4vw 0vw 3.14vw 5vw; 
+
+@media screen and (max-width: 544px) {
+.footer {
+  flex-direction: column;
+  padding: 8.4vw 0vw 3.14vw 5vw; 
+
   }
 }
 
 
 @media screen and (max-width: 320px) {
-  .footer {
-     max-width: 210px;
-    flex-direction: column;
-    padding: 20vw 30vw 7.5vw 5vw; 
+.footer {
+  padding: 20vw 30vw 7.5vw 5vw; 
   }
 }
 

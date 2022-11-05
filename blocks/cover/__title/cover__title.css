@@ -6,21 +6,14 @@
     color: #ffffff;
     text-align: center;
     text-decoration: none;
-    margin: 20% 0 0 0;
+    margin: 0;
     z-index: 1;
-  }
-  
-  @media screen and (max-width: 1024px) {
-     .cover__title {
-      margin-top: 195px;
-    }
   }
   
   @media screen and (max-width: 768px) {
      .cover__title {
       font-size: calc(100vw * (72 / 768));
       line-height: calc(100vw * (76 / 768));
-      margin-top: calc(100vw * (115 / 768));
     }
   }
   
@@ -28,7 +21,6 @@
      .cover__title {
       font-size: calc( 100vw * (32 / 320));
       line-height: calc( 100vw * (35 / 320));
-      margin-top: 10%;
     }
   }
   

@@ -1,24 +1,21 @@
- .intro__title {
-    font-weight: 900;
-    font-size: 54px;
-    line-height: 58px;
-    color: #ffffff;
-    margin: 0;
-  }
-  
-  @media screen and (max-width: 768px) {
-     .intro__title {
-      font-size: calc(100vw * (54 / 768));
-      line-height: calc(100vw * (58 / 768));
-    }
-  }
- 
-  @media screen and (max-width: 320px) {
-     .intro__title {
-      font-size: calc(100vw * (32 / 320));
-      line-height: calc(100vw * (35 / 320));
-    }
-  }
+.intro__title {
+  font-weight: 900;
+  font-size: 54px;
+  line-height: 58px;
+  color: #ffffff;
+  margin: 0;
+}
 
+@media screen and (max-width: 768px) {
+  .intro__title {
+    font-size: calc(100vw * (54 / 768));
+    line-height: calc(100vw * (58 / 768));
+  }
+}
 
-
+@media screen and (max-width: 320px) {
+  .intro__title {
+    font-size: calc(100vw * (32 / 320));
+    line-height: calc(100vw * (35 / 320));
+  }
+}

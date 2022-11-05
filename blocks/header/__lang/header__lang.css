@@ -1,6 +1,5 @@
 .header__lang {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  display: flex;
   column-gap: 18px;
   align-items: flex-end;
   list-style: none;
